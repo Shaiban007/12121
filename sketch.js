@@ -4,9 +4,9 @@ var obstacle10, obstacleGroup, obstacleGroup1, obstacleGroup2, obstacleGroup3, o
 var obstacleGroup5, obstacleGroup6, obstacleGroup7, obstacleGroup8, obstacleGroup9;
 
 function preload(){
-  obstacle10 = loadImage("images/1212.png");
-  shaibanImg = loadImage("images/normie.png");
-  background1 = loadImage("images/1243.png");
+  obstacle10 = loadImage("1212.png");
+  shaibanImg = loadImage("normie.png");
+  background1 = loadImage("1243.png");
   
 }
 
